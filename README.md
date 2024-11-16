@@ -25,8 +25,8 @@ I am a passionate Backend Developer with a love for coding and technology.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita795&layout=compact&theme=radical)
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita795/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/harshita795)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
+
 
 ## Hobbies & Interests
 - 💃 Dance
