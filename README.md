@@ -15,6 +15,9 @@ I am a passionate Backend Developer with a love for coding and technology.
 - 📫 Reach me at [My Email](mailto:yadavharshita261303@@gmail.com)
 - 😄 Pronouns: She/Her
 
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
+
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jest,sqlite,sequelize,postgresql,git,github)](https://skillicons.dev)
 
@@ -23,10 +26,6 @@ I am a passionate Backend Developer with a love for coding and technology.
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita795&layout=compact&theme=radical)
-
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
-
 
 ## Hobbies & Interests
 - 💃 Dance
