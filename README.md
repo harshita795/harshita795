@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=yellow)
 
 ## Hello, I'm Harshita! 🚀
 
