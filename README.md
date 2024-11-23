@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
 
-## Hello, I'm Harshita! 🚀
+## Hello, I'm Harshita! 💃
 
 I am a passionate Backend Developer with a love for coding and technology. 
 
