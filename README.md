@@ -12,7 +12,7 @@ I am a passionate Backend Developer with a love for coding and technology.
 - 🔭 I’m currently working on innovative projects that make a difference.
 - 🌱 I’m exploring Backend Development.
 - 💬 Ask me about anything tech-related, I love to share knowledge!
-- 📫 Reach me at [this.email](mailto:yadavharshita261303@@gmail.com)
+- 📫 Reach me at [email](mailto:yadavharshita261303@@gmail.com)
 - 😄 Pronouns: She/Her
 
 ### Connect with Me
