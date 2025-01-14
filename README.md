@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt ="Coding Girl">
-![github_profile_pic])
 
 # Welcome to My GitHub Profile! 👋
 
