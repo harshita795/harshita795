@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="right" alt ="Coding Girl" width="450">
+<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="right" alt ="Coding Girl" width="300">
 
 # Welcome to My GitHub Profile! 👋
 
