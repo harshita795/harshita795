@@ -1,17 +1,12 @@
-<table>
-  <tr>
-    <td>
-      <h1>Welcome to My GitHub Profile! 👋</h1>
-      <h2>Hello, I'm Harshita! 💃</h2>
-      <p>I am a passionate Backend Developer with a love for coding and technology.</p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" alt="Coding Girl" width="250">
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt ="Coding Girl" width="500">
+
+ ## Welcome to My GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
+
+ # Hello, I'm Harshita! 💃
+
+I am a passionate Backend Developer with a love for coding and technology. 
 
 ### About Me
 - 🔭 I’m currently working on innovative projects that make a difference.
@@ -34,5 +29,5 @@
 
 ## Hobbies & Interests
 - 💃 Dance
-
+  
 Thanks for stopping by! Feel free to reach out and connect. Let's create something amazing together!
