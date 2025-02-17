@@ -1,8 +1,8 @@
-<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt ="Coding Girl">
-
- ## Welcome to My GitHub Profile! 👋
+ # Welcome to Backend Developer GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
+
+<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt ="Coding Girl">
 
  # Hello, I'm Harshita! 💃
 
