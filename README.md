@@ -1,4 +1,4 @@
- # Welcome to Backend Developer GitHub Profile! 👋
+ # Welcome to Backend Engineer GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
 
@@ -6,11 +6,11 @@
 
  # Hello, I'm Harshita! 💃
 
-I am a passionate Backend Developer with a love for coding and technology. 
+I am a passionate Backend Engineer with a love for coding and technology. 
 
 ### About Me
-- 🔭 I’m currently working on innovative projects that make a difference.
-- 🌱 I’m exploring Backend Development.
+- 🔭 I’m currently working at MeVitae and also designing innovative projects that make a difference.
+- 🌱 I’m exploring Engineering.
 - 💬 Ask me about anything tech-related, I love to share knowledge!
 - 📫 Reach me at [this.email](mailto:yadavharshita261303@@gmail.com)
 - 😄 Pronouns: She/Her
@@ -19,7 +19,7 @@ I am a passionate Backend Developer with a love for coding and technology.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jest,sqlite,sequelize,supabase,postgresql,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,c#,jest,sqlite,sequelize,supabase,postgresql,git,github,docker)](https://skillicons.dev)
 
 ### GitHub Stats
 ![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita795&show_icons=true&theme=radical)
