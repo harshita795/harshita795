@@ -9,9 +9,10 @@
 I am a passionate Backend Engineer with a love for coding and technology. 
 
 ### About Me
-- 🔭 I’m currently working at MeVitae and also designing innovative projects that make a difference.
-- 🌱 I’m exploring Engineering.
-- 💬 Ask me about anything tech-related, I love to share knowledge!
+- ⚙️ Built ATS & HCM integrations (Workday, Greenhouse, BambooHR, Lever, etc.)
+- 🔁 Experienced in designing data synchronization systems and API integrations
+- 🚀 Currently building an integration system focusing on reliability and async processing
+- 🧠 Interested in system design and real-world backend challenges
 - 📫 Reach me at [this.email](mailto:yadavharshita261303@@gmail.com)
 - 😄 Pronouns: She/Her
 
