@@ -6,7 +6,7 @@
 
  # Hello, I'm Harshita! 💃
 
-I am a passionate Backend Engineer with a love for coding and technology. 
+Backend & Integration Engineer focused on building scalable API-driven systems and reliable data pipelines.
 
 ### About Me
 - ⚙️ Built ATS & HCM integrations (Workday, Greenhouse, BambooHR, Lever, etc.)
