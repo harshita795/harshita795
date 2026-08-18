@@ -1,34 +1,39 @@
- # Welcome to Backend Engineer GitHub Profile! 👋
+# Welcome to My Backend Engineering Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
 
-<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt ="Coding Girl">
+<img src="https://github.com/user-attachments/assets/341eaf91-b2ca-473c-9cbd-38d4784f4610" align="center" alt="Coding Girl">
 
- # Hello, I'm Harshita! 💃
+## Hello, I'm Harshita! 👩‍💻
 
-Backend & Integration Engineer focused on building scalable API-driven systems and reliable data pipelines.
+### Backend Engineer | Python & Node.js | REST APIs | PostgreSQL
 
-### About Me
-- ⚙️ Built ATS & HCM integrations (Workday, Greenhouse, BambooHR, Lever, etc.)
-- 🔁 Experienced in designing data synchronization systems and API integrations
-- 🚀 Currently building an integration system focusing on reliability and async processing
-- 🧠 Interested in system design and real-world backend challenges
-- 📫 Reach me at [this.email](mailto:yadavharshita261303@@gmail.com)
-- 😄 Pronouns: She/Her
+I’m focused on building reliable backend systems and API-driven applications,
+with an interest in clean architecture, data flow, and scalable backend design.
 
-### Connect with Me
+## About Me
+
+- 💼 1 year of professional experience building API-driven ATS & HCM integrations and data synchronization workflows
+- 🧠 Interested in system design, distributed systems, and real-world backend challenges
+- 🚀 Currently building backend projects focused on data synchronization, reliability, and asynchronous processing
+- 📫 Reach me at [Email](mailto:yadavharshita261303@gmail.com)
+
+## Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
 
-### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,c#,jest,sqlite,sequelize,supabase,postgresql,git,github,docker)](https://skillicons.dev)
+## Languages & Tools
 
-### GitHub Stats
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita795&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,postgresql,sqlite,sequelize,redis,docker,git,github,jest)](https://skillicons.dev)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita795&layout=compact&theme=radical)
+## Current Focus
 
-## Hobbies & Interests
-- 💃 Dance
-  
-Thanks for stopping by! Feel free to reach out and connect. Let's create something amazing together!
+- 🐍 Python and backend fundamentals
+- 🔌 REST API development
+- 🗄️ Database design and SQL
+- ⚡ Asynchronous processing and reliable backend workflows
+- 🧩 System design and backend architecture
+
+---
+
+Thanks for visiting my profile! Feel free to explore my projects and connect with me.
