@@ -24,9 +24,9 @@ with an interest in clean architecture, data flow, and scalable backend design.
 
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,postgresql,sqlite,sequelize,redis,docker,git,github,jest)](https://skillicons.dev)
 
-## Certification
+## Certifications
 
-[![Boot.dev Introduction to Python Course Certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/30e66ab5-466a-4bdd-9c40-0927b7ec8665.jpeg?v=1787600338)](https://www.boot.dev/certificates/30e66ab5-466a-4bdd-9c40-0927b7ec8665)
+- 🐍 [Introduction to Python – Boot.dev](https://www.boot.dev/certificates/30e66ab5-466a-4bdd-9c40-0927b7ec8665)
 
 ## Current Focus
 
