@@ -27,6 +27,7 @@ with an interest in clean architecture, data flow, and scalable backend design.
 ## Certifications
 
 - 🐍 [Introduction to Python – Boot.dev](https://www.boot.dev/certificates/30e66ab5-466a-4bdd-9c40-0927b7ec8665)
+- 🐧 [Learn Linux – Boot.dev](https://www.boot.dev/certificates/a19c972a-ce20-41b9-b23b-6f1e6c62b1e6)
 
 ## Current Focus
 
