@@ -30,6 +30,7 @@ with an interest in clean architecture, data flow, and scalable backend design.
 - 🐧 [Learn Linux – Boot.dev](https://www.boot.dev/certificates/a19c972a-ce20-41b9-b23b-6f1e6c62b1e6)
 - 📚 [Build a BookBot in Python – Boot.dev](https://www.boot.dev/certificates/0522d484-e2c8-442e-ab94-e47de0032153)
 - 🌿 [Learn Git – Boot.dev](https://www.boot.dev/certificates/43d3bc03-c548-4397-a1ba-44c7d042eaf5)
+- 🧩 [Learn Object Oriented Programming in Python – Boot.dev](https://www.boot.dev/certificates/c56f0e4a-a43c-4d8a-9d79-dd8ffaddb45a)
   
 ## Current Focus
 
