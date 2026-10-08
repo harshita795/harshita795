@@ -4,8 +4,6 @@
 
 ## Hello, I'm Harshita! 👩‍💻
 
-### Backend Engineer | Python & Node.js | REST APIs | PostgreSQL
-
 I’m focused on building reliable backend systems and API-driven applications,
 with an interest in clean architecture, data flow, and scalable backend design.
 
