@@ -20,7 +20,7 @@ with an interest in clean architecture, data flow, and scalable backend design.
 
 ## Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,postgresql,sqlite,sequelize,redis,docker,git,github,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,nodejs,js,postgresql,sqlite,sequelize,redis,docker,git,github,pytest,jest)](https://skillicons.dev)
 
 ## Certifications
 
