@@ -2,7 +2,7 @@
 
 ## Hi, I'm Harshita 👋
 
-Former Junior Integration Specialist, now building Python backend skills.
+I build and maintain API integrations between HR systems like Workday and ATS platforms, and I’m now strengthening my Python backend skills.
 
 ## About Me
 
