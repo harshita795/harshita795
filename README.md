@@ -1,28 +1,28 @@
-# Welcome to My Backend Engineering Profile! 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita795&color=blue)
 
-## Hello, I'm Harshita! 👩‍💻
+## Hi, I'm Harshita 👋
 
-I’m focused on building reliable backend systems and API-driven applications,
-with an interest in clean architecture, data flow, and scalable backend design.
+Former Junior Integration Specialist, now building Python backend skills.
 
 ## About Me
 
-- 💼 1 year of professional experience building API-driven ATS & HCM integrations and data synchronization workflows
-- 🧠 Interested in system design, distributed systems, and real-world backend challenges
-- 🚀 Currently building backend projects focused on data synchronization, reliability, and asynchronous processing
-- 📫 Reach me at [Email](mailto:yadavharshita261303@gmail.com)
+- 1 year of experience delivering ATS and HCM integrations (Workday, Greenhouse, Lever, BambooHR, Ashby, JazzHR)
+- Learning Python, Linux, Git, OOP, and functional programming on Boot.dev
+- Looking for integration, implementation, and junior backend roles (remote or India)
+- Reach me at [Email](mailto:yadavharshita261303@gmail.com)
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-04a740220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshita-yadav-backend-developer/)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-blue)](https://www.boot.dev/u/doubleexpert53)
 
 ## Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,nodejs,js,postgresql,sqlite,sequelize,redis,docker,git,github,jest)](https://skillicons.dev)
+Python (learning) · JavaScript · Node.js · Express.js · REST APIs · Git · Linux (basics)
 
-## Certifications
+[![My Skills](https://skillicons.dev/icons?i=python,linux,nodejs,js,express,git,github)](https://skillicons.dev)
+
+## Boot.dev courses and projects
 
 - 🐍 [Introduction to Python - Boot.dev](https://www.boot.dev/certificates/30e66ab5-466a-4bdd-9c40-0927b7ec8665)
 - 🐧 [Learn Linux - Boot.dev](https://www.boot.dev/certificates/a19c972a-ce20-41b9-b23b-6f1e6c62b1e6)
@@ -31,15 +31,13 @@ with an interest in clean architecture, data flow, and scalable backend design.
 - 🧩 [Learn Object Oriented Programming in Python - Boot.dev](https://www.boot.dev/certificates/c56f0e4a-a43c-4d8a-9d79-dd8ffaddb45a)
 - 🎮 [Build Asteroids using Python and Pygame - Boot.dev](https://www.boot.dev/certificates/7868f5b3-c061-43e7-8014-f528578973ea)
 - 🔄 [Learn Functional Programming in Python - Boot.dev](https://www.boot.dev/certificates/0d3b5460-6b1f-4851-ad9f-42706818c669)
-  
+
 ## Current Focus
 
 - 🐍 Python and backend fundamentals
 - 🔌 REST API development
-- 🗄️ Database design and SQL
-- ⚡ Asynchronous processing and reliable backend workflows
-- 🧩 System design and backend architecture
+- 🗄️ Database design and SQL (learning)
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+Thanks for visiting my profile! Feel free to connect with me.
