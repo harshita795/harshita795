@@ -31,6 +31,7 @@ Python (learning) · JavaScript · Node.js · Express.js · REST APIs · Git · 
 - 🧩 [Learn Object Oriented Programming in Python - Boot.dev](https://www.boot.dev/certificates/c56f0e4a-a43c-4d8a-9d79-dd8ffaddb45a)
 - 🎮 [Build Asteroids using Python and Pygame - Boot.dev](https://www.boot.dev/certificates/7868f5b3-c061-43e7-8014-f528578973ea)
 - 🔄 [Learn Functional Programming in Python - Boot.dev](https://www.boot.dev/certificates/0d3b5460-6b1f-4851-ad9f-42706818c669)
+- 🤖 [Build an AI Agent in Python - Boot.dev](https://www.boot.dev/certificates/5e2cd2c4-836e-41df-b5f1-52ec2f8cec5d)
 
 ## Current Focus
 
